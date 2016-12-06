@@ -21,6 +21,8 @@
   "license": "ISC",
   "homepage": "https://github.com/Naiba01/nw-app-updater#readme",
   "dependencies": {
+    "del": "^2.2.2",
+    "ncp": "^2.0.0",
     "request": "^2.78.0",
     "request-progress": "^2.0.1",
     "request-promise": "^4.1.1",
